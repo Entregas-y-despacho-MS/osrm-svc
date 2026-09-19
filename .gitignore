@@ -1,0 +1,7 @@
+# Extracto de mapa descargado + archivos procesados por osrm-extract/partition/customize (cientos de MB)
+osrm-data/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
